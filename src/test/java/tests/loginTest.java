@@ -30,7 +30,7 @@ public class loginTest {
 //		
 //		WebElement password=driver.findElement(By.xpath(""));
 //		
-//		These are new chnages
+//		These are new chnages / Devops
 //		//Read MyProject.properties
 //		
 		Properties prop=new Properties();
